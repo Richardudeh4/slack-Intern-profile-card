@@ -7,7 +7,6 @@ body{
     min-height: 100vh;
 }
 .card {
-
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 7px;
     flex-direction:column;
@@ -29,7 +28,6 @@ body{
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-  
 
   .container {
     color:white;
@@ -43,26 +41,4 @@ body{
     height:100%;
     object-fit: cover;
   }
-  /* @media screen and (max-width: 480px) {
-    .card {
-      position:relative;
-      left:24em;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-  }
-
-  @media screen and (min-width: 320px) {
-    .card {
-      position:relative;
-      left:12em;
-      right:12em;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-  }
-   */
-
  
